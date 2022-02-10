@@ -1,5 +1,5 @@
 # mmdb
-My Movie Database
+My Movie Database (MMDB)
 
 Structure
 

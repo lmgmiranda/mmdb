@@ -28,5 +28,5 @@
 ****************************************************************************
 
 # Recommender System (recommender)
-*Recommend movies based on a user defined movie.*
+*Recommend movies based on a movie (user input).*
 - Extract "IMDb movies.csv" from zip file in order to use the recommender

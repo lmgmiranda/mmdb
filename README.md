@@ -1,6 +1,7 @@
-My Movie Database (MMDb)
+# My Movie Database (MMDb)
+*Detailed analysis of watched movies, using user data from Trakt account and movie data from OMDb and IMDb.*
 
-Structure
+## Structure
 - Sources:
 	- Trakt : Track what you watch and when
 	- OMDb : Open Movie Database
@@ -9,7 +10,7 @@ Structure
 - Analysis using merged dataset
 
 
-Inputs
+## Inputs
 - If available:
 	- Merged dataset : pickle
 - Else:
@@ -17,7 +18,7 @@ Inputs
 	- OMDb  : txt or connection with API (key need)
 	- IMDb  : txt or connection with API
 
-Outputs
+## Outputs
 - Optional:
 	- Merged dataset : pickle
 	- OMDb request result : txt
@@ -26,5 +27,6 @@ Outputs
 
 ****************************************************************************
 
-Recommender System (recommender)
+# Recommender System (recommender)
+*Recommend movies based on a user defined movie.*
 - Extract "IMDb movies.csv" from zip file in order to use the recommender

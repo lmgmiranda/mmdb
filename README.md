@@ -1,28 +1,18 @@
 # My Movie Database (MMDb)
-*Detailed analysis of watched movies, using user data from Trakt account and movie data from OMDb and IMDb.*
+*Detailed analysis of user watched movies from Trakt and movie data from IMDb.*
 
 ## Structure
-- Sources:
-	- Trakt : Track what you watch and when
-	- OMDb : Open Movie Database
-	- IMDb : Internet Movie Database     
-- Merge OMDb data with IMDb data based on Trakt's watched movies history
-- Analysis using merged dataset
+- Sources
+    - Trakt : Track what you watch and when (API connection)
+    - IMDb : Internet Movie Database (API connection)
+    
+- Data analysis of user's watched movies history
 
 
-## Inputs
-- If available:
-	- Merged dataset : pickle
-- Else:
-	- Trakt : only by connection with API (key need)
-	- OMDb  : txt or connection with API (key need)
-	- IMDb  : txt or connection with API
-
-## Outputs
-- Optional:
-	- Merged dataset : pickle
-	- OMDb request result : txt
-	- IMDb request result : txt
+## I/O
+- Dataset : pickle file
+- Trakt : only input (API connection with private key)
+- IMDb  : txt or API connection
 
 
 ****************************************************************************

@@ -1,5 +1,5 @@
 # My Movie Database (MMDb)
-*Detailed analysis of user watched movies from Trakt and movie data from IMDb.*
+*Detailed analysis of user's watched movies history from Trakt and movie data from IMDb.*
 
 ## Structure
 - Sources

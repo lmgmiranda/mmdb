@@ -6,7 +6,7 @@
     - Trakt : Track what you watch and when (API connection)
     - IMDb : Internet Movie Database (API connection)
     
-- Data analysis of user's watched movies history
+- User's watched movies data analysis
 
 
 ## I/O

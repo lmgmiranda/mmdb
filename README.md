@@ -10,9 +10,9 @@
 
 
 ## I/O
-- Dataset : pickle file
-- Trakt : only input (API connection with private key)
-- IMDb  : txt or API connection
+- Dataset : pickle file (Input/Output)
+- Trakt : API connection (Input)
+- IMDb  : API connection (Input) or txt (Input/Output)
 
 
 ****************************************************************************

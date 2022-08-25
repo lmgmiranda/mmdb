@@ -42,7 +42,7 @@ user_client_secret = ''
    pip install cinemagoer
    ```
 ***
-<h2>Recommender</h2>
+<h1>Recommender</h1>
 Recommend movies based on a movie (user input).
 
 <!-- GETTING STARTED -->
